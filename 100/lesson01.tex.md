@@ -30,7 +30,9 @@
 
    If $$ A $$ is an $$ m\times m $$ matrix (also called square matrix), and if it has an inverse,
 
-   $$ A{ A }^{ -1 }={ A }^{ -1 }A=1 $$
+   $$
+   A{ A }^{ -1 }={ A }^{ -1 }A=1
+   $$
 
    Matrices that don't have an inverse are sometimes called "singular" or "degenerate".
 
@@ -38,4 +40,6 @@
 
    Let $$ A $$ be an $$ m\times n $$ matrix, and let $$ B = { A }^{ T } $$. Then $$ B $$ is an $$ n\times m $$ matrix, and
 
-   $$ { B }_{ ij }={ A }_{ ji } $$
+   $$
+   { B }_{ ij }={ A }_{ ji }
+   $$

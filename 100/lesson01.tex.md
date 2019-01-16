@@ -24,6 +24,7 @@
     - Unnecessary Complexity ("Double Barreled" Problem)
     - Asking the Uninformed and Unnecessary Complexity (Double Negative Problem and List Problem)
 
+
 #### Inverse and Transpose
 
 1. Matrix Inverse
@@ -40,6 +41,10 @@
 
    Let $A$ be an $m\times n$ matrix, and let $B = { A }^{ T }$. Then $B$ is an $n\times m$ matrix, and
 
-   $$
-   { B }_{ ij }={ A }_{ ji }
-   $$
+$$
+{ B }_{ ij }={ A }_{ ji }
+$$
+
+$$
+\frac{n!}{k!(n-k)!} = {n \choose k}
+$$

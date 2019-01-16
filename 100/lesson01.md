@@ -40,6 +40,10 @@
 
    Let $A$ be an $m\times n$ matrix, and let $B = { A }^{ T }$. Then $B$ is an $n\times m$ matrix, and
 
-   $$
-   { B }_{ ij }={ A }_{ ji }
-   $$
+$$
+{ B }_{ ij }={ A }_{ ji }
+$$
+
+$$
+\frac{n!}{k!(n-k)!} = {n \choose k}
+$$

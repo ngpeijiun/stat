@@ -39,7 +39,9 @@
 
 2. Matrix Transpose
 
-   Let $A$ be an $m\times n$ matrix, and let $B = { A }^{ T }$. Then $B$ is an $n\times m$ matrix, and
+Let $A$ be an $m\times n$ matrix, and let $B = { A }^{ T }$. Then $B$ is an $n\times m$ matrix, and
+
+It is well known that if $ax^2 + bx + c = 0$, then $x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}$.
 
 $$
 { B }_{ ij }={ A }_{ ji }

@@ -39,7 +39,9 @@
 
 2. Matrix Transpose
 
-   Let $A$ be an $m\times n$ matrix, and let $B = { A }^{ T }$. Then $B$ is an $n\times m$ matrix, and
+Let <img src="/100/tex/53d147e7f3fe6e47ee05b88b166bd3f6.svg?invert_in_darkmode&sanitize=true" align=middle width=12.32879834999999pt height=22.465723500000017pt/> be an <img src="/100/tex/63b142315f480db0b3ff453d62cc3e7f.svg?invert_in_darkmode&sanitize=true" align=middle width=44.39116769999999pt height=19.1781018pt/> matrix, and let <img src="/100/tex/d10b4b5827aa121c25261b3e814538ce.svg?invert_in_darkmode&sanitize=true" align=middle width=57.07355114999999pt height=27.6567522pt/>. Then <img src="/100/tex/61e84f854bc6258d4108d08d4c4a0852.svg?invert_in_darkmode&sanitize=true" align=middle width=13.29340979999999pt height=22.465723500000017pt/> is an <img src="/100/tex/dc14b70b965ac7298976c55e12ec1d6b.svg?invert_in_darkmode&sanitize=true" align=middle width=44.39116769999999pt height=19.1781018pt/> matrix, and
+
+It is well known that if <img src="/100/tex/15b9e78f3a7cb11ea59b95c9553fb928.svg?invert_in_darkmode&sanitize=true" align=middle width=119.34141284999998pt height=26.76175259999998pt/>, then <img src="/100/tex/2b1f70f6a49aea806b0a5f021e843447.svg?invert_in_darkmode&sanitize=true" align=middle width=112.44128444999998pt height=33.20539200000001pt/>.
 
 <p align="center"><img src="/100/tex/b89fa283d4577631bdeb144a44d44d21.svg?invert_in_darkmode&sanitize=true" align=middle width=69.04774965pt height=15.936036599999998pt/></p>
 

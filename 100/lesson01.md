@@ -36,7 +36,7 @@
 
         Sorted in an order of rank value, e.g., agreement with a tax proposal (agree / neutral / disagree)
 
-    - Measurement Variables (numerical)
+    - Measurement (Numerical) Variables
       - Discrete Variables
 
         e.g., number of siblings
@@ -45,7 +45,7 @@
 
         e.g., time since last meal
 
-2.  Properties of a measure
+2.  Characteristics of a measure
     - Validity
     - Reliability
     - Bias

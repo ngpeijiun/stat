@@ -5,7 +5,7 @@
 3.  Comparative Study (true / false)
     - Observational Study (describe association)
     - Experiment / Randomized Experiment (cause and effect)
-4.  Three Conditions to conduct a proper study:
+4.  Three conditions to conduct a proper study:
     - Get a representative sample
     - Get a large enough sample
     - Decide whether the study should be an observational study or experiment.
@@ -26,24 +26,29 @@
 
 ## 1.3 Defining a Common Language
 
-1. Observed Characteristics (Variables)
-   - Categorical Variables
-     - Nominal Variables
+1.  Observed Characteristics (Variables)
+    - Categorical Variables
+      - Nominal Variables
 
-       e.g., hair color
+        e.g., hair color
 
-     - Ordinal Variables
+      - Ordinal Variables
 
-       Sorted in an order of rank value, e.g., agreement with a tax proposal (agree / neutral / disagree)
+        Sorted in an order of rank value, e.g., agreement with a tax proposal (agree / neutral / disagree)
 
-   - Measurement Variables (numerical)
-     - Discrete Variables
+    - Measurement Variables (numerical)
+      - Discrete Variables
 
-       e.g., number of siblings
+        e.g., number of siblings
 
-     - Continuous Variables
+      - Continuous Variables
 
-       e.g., time since last meal
+        e.g., time since last meal
+
+2.  Properties of a measure
+    - Validity
+    - Reliability
+    - Bias
 
 #### Inverse and Transpose
 

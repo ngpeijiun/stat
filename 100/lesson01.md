@@ -24,6 +24,26 @@
     - Unnecessary Complexity ("Double Barreled" Problem)
     - Asking the Uninformed and Unnecessary Complexity (Double Negative Problem and List Problem)
 
+## 1.3 Defining a Common Language
+
+1. Observed Characteristics (Variables)
+   - Categorical Variables
+     - Nominal Variables
+
+       e.g., hair color
+
+     - Ordinal Variables
+
+       Sorted in an order of rank value, e.g., agreement with a tax proposal (agree / neutral / disagree)
+
+   - Measurement Variables (numerical)
+     - Discrete Variables
+
+       e.g., number of siblings
+
+     - Continuous Variables
+
+       e.g., time since last meal
 
 #### Inverse and Transpose
 

@@ -1,15 +1,11 @@
 ## 1.1 What is Statistics?
 
-1.  Selection Bias
-
-2.  Nonresponse Bias
-
-3.  Comparative Study (true / false)
+1.  Comparative Study (true / false)
 
     - Observational Study (describe association)
     - Experiment / Randomized Experiment (cause and effect)
 
-4.  Three conditions to conduct a proper study:
+2.  Three conditions to conduct a proper study:
 
     - Get a representative sample
     - Get a large enough sample

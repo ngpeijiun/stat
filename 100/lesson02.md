@@ -25,3 +25,11 @@
 6.  The process
 
     You want to know about a **POPULATION** but you only really have access to a **SAMPLING FRAME** that you can draw an **INTENDED SAMPLE** from, but in the end, you only get observations from the actual **SAMPLE**.
+
+7.  **Selection Bias**
+
+    The sampling frame should be as close to the entire population as possible. If this is not possible, the sampling frame should appropriately represent the desired population. **Undercoverage** is a type of selection bias in which sampling frame leaves out major portions of the population.
+
+8.  **Nonresponse Bias**
+
+    Nonresponse bias arises from low response rate. This problem can create bias if the people who respond have different views than those who do not.

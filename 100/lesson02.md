@@ -33,3 +33,19 @@
 8.  **Nonresponse Bias**
 
     Nonresponse bias arises from low response rate. This problem can create bias if the people who respond have different views than those who do not.
+
+## 2.2 The Beauty of Sampling
+
+1.  If you follow the news, you might remember hearing that many of these polls are based on samples of size 1000 to 1500 people. So, why is a sample size of around 1000 people commonly used in surveying? The answer is based on understanding what is called the **margin of error**.
+
+    For a sample size of ![equation](https://latex.codecogs.com/gif.latex?%5Cinline%20n%3D1000), the **margin of error** for a sample proportion is around ![equation](https://latex.codecogs.com/gif.latex?%5Cinline%20%5Cfrac%20%7B%201%20%7D%7B%20%5Csqrt%20%7B%20n%20%7D%20%7D%20%3D%5Cfrac%20%7B%201%20%7D%7B%20%5Csqrt%20%7B%201000%20%7D%20%7D%20%5Capprox%200.03) or about 3%. Since other problems inherent in surveys may often cause biases of a percent or two, pollsters often believe that it is not worth the expense to achieve the small improvement in the margin of error that might be gained by increasing the sample size further.
+
+2.  **Margin of Error**
+
+    - Measures the reliability of the percent or other estimate based on the survey data
+    - Is smaller when the sample size (*n*) is larger
+    - Does not provide information about bias or other errors in a survey
+
+3.  Interpretation
+
+    If one obtains many unbiased samples of the same size form a defined population, the difference between the sample percent and the true population percent will be within the margin of error, at least 95% of the time.

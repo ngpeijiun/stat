@@ -32,7 +32,7 @@
 
 8.  **Nonresponse Bias**
 
-    Nonresponse bias arises from low response rate. This problem can create bias if the people who respond have different views than those who do not.
+    Nonresponse bias arises from low response rate, in which case the sample is much smaller than the intended sample. This problem can create bias if the people who respond have different views than those who do not.
 
 ## 2.2 The Beauty of Sampling
 

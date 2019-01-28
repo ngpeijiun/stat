@@ -49,3 +49,7 @@
 3.  Interpretation
 
     If one obtains many unbiased samples of the same size form a defined population, the difference between the sample percent and the true population percent will be within the margin of error, at least 95% of the time.
+
+## 2.3 Relationship between Sample Size and Margin of Error
+
+1.  The margin of error does not substantially decrease at sample sizes above 1500 (since it is already below 30%). After that point, it is probably better to spend additional resources on reducing sources of bias that might be on the same order as the margin of error. An obvious exception would be in a government survey, like the one used to estimate the unemployment rate, where even tenths of a percent matter.

@@ -104,4 +104,14 @@
 
     Given equal sizes, **cluster sampling** usually provides less precision than either **simple random sampling** or **stratified sampling**. On the other hand, if travel costs between clusters are high, **cluster sampling** may be more cost-effective than other methods.
 
+5.  **Systematic Sampling**
+
+    **Systematic sampling** is a type of probability sampling method in which sampling unit from an ordered sampling frame are selected according to a random starting point and a fixed, periodic interval. This interval, called the sampling interval *k*, is calculated by dividing the sampling frame size *N* by the intended sample size *n*.
+
+    <p align="center"><img alt="equation" src="https://latex.codecogs.com/gif.latex?%5Cinline%20k%3D%5Cfrac%20%7B%20N%20%7D%7B%20n%20%7D"></p>
+
+    **Simple random sampling** can be inefficient and time-consuming, statisticians turn to other methods, such as **systematic sampling**. Choosing a sample size through a **systematic sampling** approach can be done quickly. Once a fixed starting point has been identified, a constant interval is selected to facilitate sampling unit selection.
+
+    **Systematic sampling** is to be applied only if the given population is logically homogeneous, because systematic sample units are uniformly distributed over the population. The researcher must ensure that the chosen sampling interval does not hide a pattern. Any pattern would threaten randomness.
+
 ### 2.4.2 Non-probability Sampling

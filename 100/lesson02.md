@@ -106,9 +106,9 @@
 
 5.  **Systematic Sampling**
 
-    **Systematic sampling** is a type of probability sampling method in which sampling unit from an ordered sampling frame are selected according to a random starting point and a fixed, periodic interval. This interval, called the sampling interval *k*, is calculated by dividing the sampling frame size *N* by the intended sample size *n*.
+    **Systematic sampling** is a type of probability sampling method in which sampling units from an ordered sampling frame are selected according to a random starting point and a fixed, periodic interval. This interval, called the sampling interval *k*, is calculated by dividing the sampling frame size *N* by the intended sample size *n*.
 
-    <p align="center"><img alt="equation" src="https://latex.codecogs.com/gif.latex?%5Cinline%20k%3D%5Cfrac%20%7B%20N%20%7D%7B%20n%20%7D"></p>
+    <p align="center"><img alt="equation" src="https://latex.codecogs.com/gif.latex?k%3D%5Cfrac%20%7B%20N%20%7D%7B%20n%20%7D"></p>
 
     **Simple random sampling** can be inefficient and time-consuming, statisticians turn to other methods, such as **systematic sampling**. Choosing a sample size through a **systematic sampling** approach can be done quickly. Once a fixed starting point has been identified, a constant interval is selected to facilitate sampling unit selection.
 

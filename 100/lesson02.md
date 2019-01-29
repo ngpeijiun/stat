@@ -76,4 +76,18 @@
     - **Systematic Sampling**
     - **Multistage Sampling (in which some of the methods above are combined in stages)**
 
+2.  **Simple Random Sampling (SRS)**
+
+    **Simple random sampling** is a type of probability sampling in which each member of the population has an equal probability of being chosen.
+
+    A sampling bias can occur with a **simple random sampling** if the sample does not end up accurately reflecting the population it is supposed to represent. For example, it would be possible to draw 25 men even if the population consisted of 125 women and 125 men.
+
+3.  **Stratified Sampling**
+
+    **Stratified sampling** is possible when it makes sens to partition the population into groups based on a factor that may influence the variable that is being measured. These groups are then called strata. An individual group is called stratum. With **stratified sampling** one should:
+    
+    - partition the population into groups (strata)
+    - obtain a simple random sample from each group (stratum)
+    - collect data on each sampling unit that was randomly sampled from each group (stratum)
+
 ### 2.4.2 Non-probability Sampling

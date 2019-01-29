@@ -84,10 +84,12 @@
 
 3.  **Stratified Sampling**
 
-    **Stratified sampling** is possible when it makes sens to partition the population into groups based on a factor that may influence the variable that is being measured. These groups are then called strata. An individual group is called stratum. With **stratified sampling** one should:
+    **Stratified sampling** is possible when it makes sense to partition the population into groups based on a factor that may influence the variable that is being measured. These groups are then called strata. An individual group is called stratum. With **stratified sampling** one should:
     
     - partition the population into groups (strata)
     - obtain a simple random sample from each group (stratum)
     - collect data on each sampling unit that was randomly sampled from each group (stratum)
+
+    **Stratified sampling** works best when a heterogeneous population is split into fairly homogeneous groups. Under these conditions, stratification generally produces more precise estimates of the population percents than estimates that would be found from a simple random sample.
 
 ### 2.4.2 Non-probability Sampling

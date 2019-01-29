@@ -92,4 +92,16 @@
 
     **Stratified sampling** works best when a heterogeneous population is split into fairly homogeneous groups. Under these conditions, stratification generally produces more precise estimates of the population percents than estimates that would be found from a simple random sample.
 
+4.  **Cluster sampling**
+
+    With **cluster sampling** one should
+    
+    - divide the population into groups (clusters).
+    - obtain a simple random sample of so many clusters from all possible clusters.
+    - obtain data on every sampling unit in each of the randomly selected clusters.
+
+    It is important to note that, unlike with the strata in **stratified sampling**, the clusters should be microcosms, rather than subsections, of the population. Each cluster should be heterogeneous.
+
+    Given equal sizes, **cluster sampling** usually provides less precision than either **simple random sampling** or **stratified sampling**. On the other hand, if travel costs between clusters are high, **cluster sampling** may be more cost-effective than other methods.
+
 ### 2.4.2 Non-probability Sampling

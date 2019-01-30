@@ -119,6 +119,11 @@
 1.  **Non-probability sampling** that should be avoided:
 
     - **Volunteer Samples**
+    
+      A voluntary sample is made up of people who self-select into the survey. Often, these folks have a strong interest in the main topic of the survey.
+    
     - **Haphazard (Convenience) Samples**
 
-    Since such **non-probability sampling** methods are based on human choice rather than random selection, a statistical theory cannot explain how they might behave and potential sources of bias are rampant. The two types of non-probability samples listed above are called "sampling disasters".
+      Members of the population are chosen based on their relative ease of access. To sample friends, co-workers, or shoppers at a single mall, are all examples of convenience sampling. Reseachers may unconciously approach some kinds of respondents and avoid others.
+
+2.  Since such **non-probability sampling** methods are based on human choice rather than random selection, a statistical theory cannot explain how they might behave and potential sources of bias are rampant. The two types of non-probability samples listed above are called "sampling disasters".

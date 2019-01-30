@@ -132,4 +132,18 @@
 
 1.  **Experimental Unit**
 
-    The **experimental unit** is the smallest basic object to which one can assign different conditions (treatments). In research studies, the **experimental unit** does not always have to be a person. In fact, the statistical terminology that is associated with research studies actually came from studies done in agriculture. Examples of an **experimental unit** include person, animal, plant, set of twins, married couple, plot of land, building.
+    The **experimental unit** is the smallest basic object to which one can assign different conditions (treatments). In research studies, the **experimental unit** does not always have to be a person. In fact, the statistical terminology that is associated with research studies actually came from studies done in agriculture. Examples of an **experimental unit** include person, animal, plant, set of twins, married couple, plot of land, and building.
+
+2.  **Explanatory Variable / Treatment** (in randomized experiment)
+
+    The **explanatory variable** is the variable used to form or define the different samples. In randomized experiments, **explanatory variable** is the variable that is used to explain differences in the groups. In this instance, the **explanatory variable** can also be called a treatment when each experimental unit is randomly assigned a certain condition. Examples of **explanatory variables** include gender, type of plant, type of drug, type of medical procedure, and teaching method.
+    
+    You should note that gender and type of plant cannot be called treatments because one cannot randomly assign gender or type of plant.
+
+3.  **Response (Outcome) Variable**
+
+    The **response variable** is the outcome of the study that is either measured or counted. Examples of **response variables** include height, weight, temperature, classification of whether a person is a vegetarian, and classification of symptom severity for an illness.
+
+4.  **Confounding Variable**
+
+    A **confounding variable** is a variable that affects the response variable and is also related to the explanatory variable. The effect of a **confounding variable** on the response variable cannot be separated from the effect of the explanatory variable. Therefore, we cannot clearly determine that the explanatory variable is solely responsible for any effect on the response or outcome variable when a **confounding variable** is present. **Confounding variables** are problematic in observational studies.

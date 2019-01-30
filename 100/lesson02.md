@@ -92,7 +92,7 @@
 
     **Stratified sampling** works best when a heterogeneous population is split into fairly homogeneous groups. Under these conditions, stratification generally produces more precise estimates of the population percents than estimates that would be found from a simple random sample.
 
-4.  **Cluster sampling**
+4.  **Cluster Sampling**
 
     With **cluster sampling** one should
     
@@ -116,9 +116,9 @@
 
 ### 2.4.2 Non-probability Sampling
 
-1.  **Non-probability** sampling that should be avoided:
+1.  **Non-probability sampling** that should be avoided:
 
-    - **Volunteer samples**
-    - **Haphazard (convenience) samples**
+    - **Volunteer Samples**
+    - **Haphazard (Convenience) Samples**
 
     Since such **non-probability sampling** methods are based on human choice rather than random selection, a statistical theory cannot explain how they might behave and potential sources of bias are rampant. The two types of non-probability samples listed above are called "sampling disasters".

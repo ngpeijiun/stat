@@ -115,3 +115,10 @@
     **Systematic sampling** is to be applied only if the given population is logically homogeneous, because systematic sample units are uniformly distributed over the population. The researcher must ensure that the chosen sampling interval does not hide a pattern. Any pattern would threaten randomness.
 
 ### 2.4.2 Non-probability Sampling
+
+1.  **Non-probability** sampling that should be avoided:
+
+    - **Volunteer samples**
+    - **Haphazard (convenience) samples**
+
+    Since such **non-probability sampling** methods are based on human choice rather than random selection, a statistical theory cannot explain how they might behave and potential sources of bias are rampant. The two types of non-probability samples listed above are called "sampling disasters".

@@ -127,3 +127,9 @@
       Members of the population are chosen based on their relative ease of access. To sample friends, co-workers, or shoppers at a single mall, are all examples of convenience sampling. Reseachers may unconciously approach some kinds of respondents and avoid others.
 
 2.  Since such **non-probability sampling** methods are based on human choice rather than random selection, a statistical theory cannot explain how they might behave and potential sources of bias are rampant. The two types of non-probability samples listed above are called "sampling disasters".
+
+## 2.5 Defining a Common Language for Comparative Studies
+
+1.  **Experimental Unit**
+
+    The **experimental unit** is the smallest basic object to which one can assign different conditions (treatments). In research studies, the **experimental unit** does not always have to be a person. In fact, the statistical terminology that is associated with research studies actually came from studies done in agriculture. Examples of an **experimental unit** include person, animal, plant, set of twins, married couple, plot of land, building.

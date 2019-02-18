@@ -2,7 +2,7 @@
 
 1.  Comparative Study (true / false)
 
-    - Observational Study (describe association)
+    - Observational Study (association)
     - Experiment / Randomized Experiment (cause and effect)
 
 2.  Three conditions to conduct a proper study:

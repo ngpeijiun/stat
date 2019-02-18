@@ -190,3 +190,19 @@
     |Two Independent              |Observational|None                        |Yes                                      |
     |Matched Pairs (Two Dependent)|Experiment   |Randomize order of treatment|No, randomization cancels out confounding|
     |Matched Pairs (Two Dependent)|Observational|None                        |Yes                                      |
+
+## 2.7 Designing a Better Observational Study
+
+1.  The problem of confouding makes the interpretation of observational studies difficult. Thus, it is important to design observational studies in a way that minimizes confounding.
+
+2.  **Retrospective Cohort Study**
+
+    A **retrospective cohort study**, also called a **historic cohort study**, is a longitudinal cohort study used in medical and psychological research. A cohort of individuals that share a common exposure factor is compared with another group of equivalent individuals not exposed to that factor, to determine the factor's influence on the incidence of a condition such as disease or death. Confounding variables are potential problems in retrospective cohort study.
+
+3.  **Case-Control Study**
+
+    In a **case-control study** people with the response of interest form a group of "cases" and are compared to a group of "controls" who are in similar circumstances except for the fact that they have the response. Notice that case-control studies are done **retrospectively** - they compare patients who have the disease today with those who don't and ask them about past exposures or behaviors.
+
+4.  **Prospective Cohort Study**
+
+    A **prospective cohort study** is a longitudinal cohort study that follows over time a group of similar individuals (cohorts) who differ with respect to certain exposures or behaviors (the explanatory variables) under the study, to determine how these factors affect rates of certain outcome (the response variable).

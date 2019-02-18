@@ -52,7 +52,7 @@
 
 ## 2.3 Relationship between Sample Size and Margin of Error
 
-1.  The margin of error does not substantially decrease at sample sizes above 1500 (since it is already below 30%). After that point, it is probably better to spend additional resources on reducing sources of bias that might be on the same order as the margin of error. An obvious exception would be in a government survey, like the one used to estimate the unemployment rate, where even tenths of a percent matter.
+1.  The margin of error does not substantially decrease at sample sizes above 1500 (since it is already below 3%). After that point, it is probably better to spend additional resources on reducing sources of bias that might be on the same order as the margin of error. An obvious exception would be in a government survey, like the one used to estimate the unemployment rate, where even tenths of a percent matter.
 
 ## 2.4 Simple Random Sampling and Other Sampling Methods
 
@@ -64,7 +64,7 @@
 
     - **Non-probability Sampling**
 
-      Sample does not have known probability of being selected as an inconvenience or voluntary response surveys
+      Sample does not have known probability of being selected as an convenience or voluntary response surveys
 
 ### 2.4.1 Probability Sampling
 

@@ -147,3 +147,25 @@
 4.  **Confounding Variable**
 
     A **confounding variable** is a variable that affects the response variable and is also related to the explanatory variable. The effect of a **confounding variable** on the response variable cannot be separated from the effect of the explanatory variable. Therefore, we cannot clearly determine that the explanatory variable is solely responsible for any effect on the response or outcome variable when a **confounding variable** is present. **Confounding variables** are problematic in observational studies.
+
+## 2.6 Types of Research Studies
+
+1.  With a **randomized experiment**, the researcher
+
+    * Creates differences in the explanatory variable when randomly assigning treatments.
+    * Allows for possible "**cause and effect**" conclusions if other precautions are taken.
+    * Can minimize the effect of "**confounding**" variables.
+
+2.  With an **observational study**, the researcher
+
+    * Observes differences in the explanatory variable in natural settings / groupings (no variable is randomly assigned).
+    * Strives for association conclusions since "cause and effect" conclusions are not possible.
+    * Must accept that confounding variables are potential problems.
+
+3.  **Independent Samples**
+
+    The label of **independent samples** is used when the results for the one sample have no impact on the results found in the second sample. Each experiment unit provides a measurement for only one treatment. The results from experiment units in one group will not impact the results of experiment units in the other group, so the results form the two samples are **independent**.
+
+4.  **Randomized Block Design**
+
+    With a **randomized block design**, the researcher divides the experiment units into subgroups called **blocks**, such that the variability within blocks is less than the variability between blocks. Then, subjects within each block are randomly assigned to treatment condition. Compared to completely randomized design, this design reduces variability within treatment conditions and potential confounding, producing a better estimate of treatment effects.

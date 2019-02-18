@@ -166,9 +166,9 @@
 
     The label of **independent samples** is used when the results for the one sample have no impact on the results found in the second sample. Each experimental unit provides a measurement for only one treatment. The results from experimental units in one group will not impact the results of experimental units in the other group, so the results form the two samples are **independent**.
 
-4.  **Randomized Block Design**
+4.  **Block Design** / **Randomized Block Design**
 
-    With a **randomized block design**, the researcher divides the experimental units into subgroups called **blocks**, such that the variability within blocks is less than the variability between blocks. Then, experimental units within each block are randomly assigned to a treatment condition. Compared to completely randomized design, this design reduces variability within treatment conditions and potential confounding, producing a better estimate of treatment effects.
+    With a **block design**, the researcher divides the experimental units into subgroups called **blocks**, such that the variability within blocks is less than the variability between blocks. In experiment study, experimental units within each block are randomly assigned to a treatment condition. Compared to independent samples, this design reduces variability within treatment conditions and potential confounding, producing a better estimate of treatment effects.
 
 5.  **Matched Pairs Design** and **Dependent Samples**
 

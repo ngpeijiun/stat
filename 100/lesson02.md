@@ -164,8 +164,29 @@
 
 3.  **Independent Samples**
 
-    The label of **independent samples** is used when the results for the one sample have no impact on the results found in the second sample. Each experiment unit provides a measurement for only one treatment. The results from experiment units in one group will not impact the results of experiment units in the other group, so the results form the two samples are **independent**.
+    The label of **independent samples** is used when the results for the one sample have no impact on the results found in the second sample. Each experimental unit provides a measurement for only one treatment. The results from experimental units in one group will not impact the results of experimental units in the other group, so the results form the two samples are **independent**.
 
 4.  **Randomized Block Design**
 
-    With a **randomized block design**, the researcher divides the experiment units into subgroups called **blocks**, such that the variability within blocks is less than the variability between blocks. Then, experiment units within each block are randomly assigned to treatment condition. Compared to completely randomized design, this design reduces variability within treatment conditions and potential confounding, producing a better estimate of treatment effects.
+    With a **randomized block design**, the researcher divides the experimental units into subgroups called **blocks**, such that the variability within blocks is less than the variability between blocks. Then, experimental units within each block are randomly assigned to a treatment condition. Compared to completely randomized design, this design reduces variability within treatment conditions and potential confounding, producing a better estimate of treatment effects.
+
+5.  **Matched Pairs Design** and **Dependent Samples**
+
+    A **matched pairs design** is a special case of a randomized block design. It can be used when the research study has only two explanatory values; and subjects can be grouped into pairs, based on some blocking variables. Specifically, each pair forms the experimental unit and provides two data observations that can be paired together. Consequently, we can say that we have two dependent samples as the values are more similar for each pair of measurements for each experimental unit than the values are between experimental units. But rather than comparing the two dependent samples, we are comparing the two data observations each experimental unit provides to each other which distinguishes matched pairs from independent samples.
+
+6.  **Carryover Effect**
+
+    Problems can exist with block designs, including matched pair designs, in experiment study, when what happens with the first measurement "carries over" to the second measurement. This **carryover effect** is a type of confounding that is found with block designs.
+
+    For example, **carryover effect** could possibly occur if complicated equipment was used to measure force exerted by a hand. If everyone used their right hand first, they might not do so well with the right hand because of not understanding the equipment, but do much better with their left hand because they learned how the equipment worked. In statistics, this is called a **training effect**. The opposite, however, could also take place, when one became bored or fatigued resulting in **fatigue effect**.
+
+    The overall conclusion is that if you randomly assign the order of treatment, it should cancel out the possibility of a carryover effect. In statistics, we call this a **randomized matched pairs design**.
+
+7.  The table below summarizes some combination of research studies:
+
+    |Type of Samples              |Type of Study|Randomization Used          |Is Confounding Possible?                 |
+    |-----------------------------|-------------|----------------------------|-----------------------------------------|
+    |Two Independent              |Experiment   |Randomize type of treatment |No, randomization cancels out confounding|
+    |Two Independent              |Observational|None                        |Yes                                      |
+    |Matched Pairs (Two Dependent)|Experiment   |Randomize order of treatment|No, randomization cancels out confounding|
+    |Matched Pairs (Two Dependent)|Observational|None                        |Yes                                      |

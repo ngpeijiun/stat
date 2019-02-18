@@ -168,4 +168,4 @@
 
 4.  **Randomized Block Design**
 
-    With a **randomized block design**, the researcher divides the experiment units into subgroups called **blocks**, such that the variability within blocks is less than the variability between blocks. Then, subjects within each block are randomly assigned to treatment condition. Compared to completely randomized design, this design reduces variability within treatment conditions and potential confounding, producing a better estimate of treatment effects.
+    With a **randomized block design**, the researcher divides the experiment units into subgroups called **blocks**, such that the variability within blocks is less than the variability between blocks. Then, experiment units within each block are randomly assigned to treatment condition. Compared to completely randomized design, this design reduces variability within treatment conditions and potential confounding, producing a better estimate of treatment effects.

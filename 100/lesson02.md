@@ -172,7 +172,7 @@
 
 5.  **Matched Pairs Design** and **Dependent Samples**
 
-    A **matched pairs design** is a special case of a randomized block design. It can be used when the research study has only two explanatory values; and subjects can be grouped into pairs, based on some blocking variables. Specifically, each pair forms the experimental unit and provides two data observations that can be paired together. Consequently, we can say that we have two dependent samples as the values are more similar for each pair of measurements for each experimental unit than the values are between experimental units. But rather than comparing the two dependent samples, we are comparing the two data observations each experimental unit provides to each other which distinguishes matched pairs from independent samples.
+    A **matched pairs design** is a special case of a block design. It can be used when the research study has only two explanatory values; and subjects can be grouped into pairs, based on some blocking variables. Specifically, each pair forms the experimental unit and provides two data observations that can be paired together. Consequently, we can say that we have two dependent samples as the values are more similar for each pair of measurements for each experimental unit than the values are between experimental units. But rather than comparing the two dependent samples, we are comparing the two data observations each experimental unit provides to each other which distinguishes matched pairs from independent samples.
 
 6.  **Carryover Effect**
 

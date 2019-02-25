@@ -180,9 +180,11 @@
 
     For example, **carryover effect** could possibly occur if complicated equipment was used to measure force exerted by a hand. If everyone used their right hand first, they might not do so well with the right hand because of not understanding the equipment, but do much better with their left hand because they learned how the equipment worked. In statistics, this is called a **training effect**. The opposite, however, could also take place, when one became bored or fatigued resulting in **fatigue effect**.
 
+7.  **Randomized Matched Pairs Design**
+
     The overall conclusion is that if you randomly assign the order of treatment, it should cancel out the possibility of a carryover effect. In statistics, we call this a **randomized matched pairs design**.
 
-7.  The table below summarizes some combination of research studies:
+8.  The table below summarizes some combination of research studies:
 
     |Type of Samples              |Type of Study|Randomization Used          |Is Confounding Possible?                 |
     |-----------------------------|-------------|----------------------------|-----------------------------------------|

@@ -20,7 +20,7 @@
     - Anchoring
     - Unintentional Bias
 
-       People will tend to answer "oppose" or "no" to a question that contains words such as _forbid_, _control_, _ban_, _outlaw_, and _restrain_, regardless of what question is being asked. People do not like to be told that they cannot do something.
+       People will tend to answer "oppose" or "no" to a question that contains words such as *forbid*, *control*, *ban*, *outlaw*, and *restrain*, regardless of what question is being asked. People do not like to be told that they cannot do something.
 
     - Unnecessary Complexity ("Double Barreled" Problem)
     - Asking the Uninformed and Unnecessary Complexity (Double Negative Problem and List Problem)

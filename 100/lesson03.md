@@ -48,3 +48,69 @@
 7.  **Step Seven**
 
     Decide if the results are strong enough to encourage you to change your behavior or beliefs.
+
+## 3.2 Graphs: Displaying Measurement Data
+
+1.  Four different graphs that can be used to describe measurement data:
+
+    - Dotplot
+    - Stemplot (Stem and Leaf Plot)
+    - Histogram
+    - Boxplot
+
+2.  **Dotplot**
+
+    A **dotplot** is a type of graphic display used to compare frequency counts within categories or groups. As you might guess, a dotplot is made up of dots plotted on a graph. Here is how to interpret a dotplot.
+
+    - Each dot can represent a single observation from a set of data, or a specified number of observations from a set of data.
+    - The dots are stacked in a column over a cateogry, so that the height of the column represents the relative or absolute frequency of observations in the category.
+
+3.  **Stemplot (Stem and Leaf Plot)**
+
+    A **stemplot** is used to show how individual values are distributed within a set of quantitative data, generally from a small data sets (50 or fewer observations). The first column of the **stemplot** counts the number of values from the top down and from the bottom up to the middle value (the median). The number in parantheses represents the count of the values in the row containing the median. The entries on the second column are called stems; and the entries on the third column are called leaves.
+
+4.  **Histogram**
+
+    Of all the graphs presented so far, the histogram may be the most valuable. A **histogram** is essentially a bar graph for measurement data. The difference, however, between a histogram and a bar graph, is that with a histogram the categories are a range of numbers rather than words. Usually, each numerical category must have the same width. The heights of the bars either reflect the frequency or the relative frequency (percents) of the encountering that range of numbers in the data.
+
+5.  Histogram Interpretations
+
+    - Skewed to the right
+
+      A larger percent of data is found on the lower tail of the histogram. Data values are farther apart on the right. E.g. income data.
+
+    - Skewed to the left
+
+      A larger percent of data is found on the upper tail of the histogram. Data values are farther apart on the left. E.g. results of an easy test.
+
+    - Symmetric
+
+      Equal percent of data on each side and tail of the histogram.
+
+    - Bimodal
+
+      Two clear peaks (modes) seen in the histogram. E.g. data really comes from two different populations.
+
+## 3.3 Numbers: Summarizing Measurement Data
+
+1.  Two important ways to summarize measurement data:
+
+    - Measures of center (where the data are located along the number line)
+    - Measures of spread (how much variation there is about the center)
+
+2.  To represent the center of a list of measurement data we focus on:
+
+    - The *mean* (the numerical average)
+    - The *median* (the 50th percentile)
+
+    The mean is an example of a **sensitive measure** because all observations were used in the calculation so it is sensitives to large or small numbers away from most of the other values. In contrast, the median is an example of a **resistant measure** because only the middle observation was used to determine its value.
+
+3.  Choice of measures of center
+
+    - Symmetric: mean and median are approximately equal
+    - Right skewed: mean is greater than median
+    - Left skewed: mean is less than median
+
+    Generally, when the data is skewed, the **median** is more appropriate to use as the measure of a typical value. We generally use the **mean** as the measure of center when the data is fairly symmetric.
+
+    In deciding which measure to use, we must also confront the issue of validity - that is what is most relevant for the problem at hand. For example, if we are interested in the total income for a country, we would look to per-capita income (the mean). But if we are interested in the income of a typical citizen, we would look to the median income.
